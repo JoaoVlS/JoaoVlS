@@ -4,7 +4,15 @@
 
 ###
 
-<p align="left">My name is João Vitor and I'll be a full stack developer.  Here I'll share my journey to get my goals!</p>
+<p>
+  Hi 👋, I'm João Vitor! A website development student from Brazil.
+
+  - 🌱 I am currently studying to become a full stack developer. 
+
+  - 🔭 I am looking for my first job opportunity. My dream is to be able to work with web development and applications and here I will share my journey to achieve this goal.
+
+  - 👨‍💻 Feel free to check out my repositories. Thanks for visiting!
+</p>
 
 ###
 
